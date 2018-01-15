@@ -29,7 +29,7 @@ def chiffre_de_cesar (str, mod)
 end
 		
 	
-puts chiffre_de_cesar("What a string!", 57)	
+puts chiffre_de_cesar("Ima supa banana!", 57)	
 
 
 
