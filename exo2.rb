@@ -33,8 +33,3 @@ puts chiffre_de_cesar("What a string!", 57)
 
 
 
-=begin
-	
-#	str.each do |char|
-	
-=end
